@@ -1,10 +1,12 @@
 Hi there 👋
+---
 
 I'm Nikita Shinde!
 
 🔐 Cybersecurity Student | Aspiring SOC Analyst | Ethical Hacking Enthusiast
 🛡️ Focused on protecting systems, monitoring threats, and building security skills.
 ⚡ Passionate about SOC operations, penetration testing, and digital forensics. 
+---
 
 
 📜 About Me  
@@ -18,17 +20,19 @@ I'm Nikita Shinde!
 🌱 Building a portfolio of **cybersecurity tools, labs, and projects** on GitHub.  
 ⚡ Goal: To become a skilled **SOC Analyst & Cybersecurity Professional**.  
 
- 🧰 Tools & Languages  
+ 🧰 Tools & Languages
+ ---
 
 💻 Programming & Scripting  
 - 🐍 Python  
 - 🐚 Bash  
-- 🗄️ SQL  
-
+- 🗄️ SQL
+  ---
 🛠️ OS & Platforms  
 - 🐧 Linux (Kali Linux, Ubuntu)  
 - 🪟 Windows  
-- 📦 VirtualBox / VMware  
+- 📦 VirtualBox / VMware
+  ---
 
 🔎 Recon & Information Gathering  
 - 🌐 Nmap  
@@ -36,48 +40,54 @@ I'm Nikita Shinde!
 - 📜 Whois  
 - 🛰️ Maltego  
 
+  ---
  ⚔️ Vulnerability Scanning  
 - ⚡ Nikto  
 - 🐉 Nessus  
-- 🔬 OpenVAS  
+- 🔬 OpenVAS
+--- 
 
 🪝 Exploitation  
 - 🗡️ Metasploit Framework  
 - 💥 SQLMap  
-- 🐚 Exploit-DB  
+- 🐚 Exploit-DB
+---
 
 🧪 Web App Testing  
 - 🦀 Burp Suite  
-- 🔓 Dirbuster  
+- 🔓 Dirbuster
+---
+  
   
 
  🔐 Password Attacks  
 - 🔨 Hydra   
 - 🧰 Crunch  
-- 🗝️ Hashcat  
-
+- 🗝️ Hashcat
+---
+    
  🧭 Wireless Testing  
 - 📶 Wireshark  
-- 📻 Kismet  
+- 📻 Kismet
+---
 
 🗂️ General Tools  
 - ⚙️ Git & GitHub  
 - 📄 VS Code  
-- 🐧 Terminal  
+- 🐧 Terminal
+---
 
 
 
 📌 Featured Projects by Nikita Shinde  
 
 🔹 Prodigy InfoTech Cyber Projects  
-[![Cybersecurity](https://img.shields.io/badge/Category-Cybersecurity-blue?style=for-the-badge&logo=security)](#)  
+
 Hands-on tasks and cybersecurity challenges completed under **Prodigy InfoTech Internship**.  
 
 ---
 
 🔹 CodSoft Password Generator  
-[![Python](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python)](#)  
-[![Security](https://img.shields.io/badge/Category-Security-critical?style=for-the-badge&logo=hackaday)](#)  
 A **Python-based password generator** project showcasing secure coding practices.  
 
 
