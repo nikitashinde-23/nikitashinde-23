@@ -1,16 +1,91 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**nikitashinde-23/nikitashinde-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nikita Shinde!
 
-Here are some ideas to get you started:
+🔐 Cybersecurity Student | Aspiring SOC Analyst | Ethical Hacking Enthusiast
+🛡️ Focused on protecting systems, monitoring threats, and building security skills.
+⚡ Passionate about SOC operations, penetration testing, and digital forensics. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📜 About Me  
+🎯 Interests in Cybersecurity, including:  
+- SOC Monitoring & Incident Response  
+- Network Scanning & Information Gathering  
+- Vulnerability Assessment & Exploitation   
+- Malware & Threat Analysis  
+
+🏫 Currently pursuing studies in **Cybersecurity & Digital Forensics**  
+🌱 Building a portfolio of **cybersecurity tools, labs, and projects** on GitHub.  
+⚡ Goal: To become a skilled **SOC Analyst & Cybersecurity Professional**.  
+
+ 🧰 Tools & Languages  
+
+💻 Programming & Scripting  
+- 🐍 Python  
+- 🐚 Bash  
+- 🗄️ SQL  
+
+🛠️ OS & Platforms  
+- 🐧 Linux (Kali Linux, Ubuntu)  
+- 🪟 Windows  
+- 📦 VirtualBox / VMware  
+
+🔎 Recon & Information Gathering  
+- 🌐 Nmap  
+- 🔍 theHarvester  
+- 📜 Whois  
+- 🛰️ Maltego  
+
+ ⚔️ Vulnerability Scanning  
+- ⚡ Nikto  
+- 🐉 Nessus  
+- 🔬 OpenVAS  
+
+🪝 Exploitation  
+- 🗡️ Metasploit Framework  
+- 💥 SQLMap  
+- 🐚 Exploit-DB  
+
+🧪 Web App Testing  
+- 🦀 Burp Suite  
+- 🔓 Dirbuster  
+  
+
+ 🔐 Password Attacks  
+- 🔨 Hydra   
+- 🧰 Crunch  
+- 🗝️ Hashcat  
+
+ 🧭 Wireless Testing  
+- 📶 Wireshark  
+- 📻 Kismet  
+
+🗂️ General Tools  
+- ⚙️ Git & GitHub  
+- 📄 VS Code  
+- 🐧 Terminal  
+
+
+
+📌 Featured Projects by Nikita Shinde  
+
+🔹 Prodigy InfoTech Cyber Projects  
+[![Cybersecurity](https://img.shields.io/badge/Category-Cybersecurity-blue?style=for-the-badge&logo=security)](#)  
+Hands-on tasks and cybersecurity challenges completed under **Prodigy InfoTech Internship**.  
+
+---
+
+🔹 CodSoft Password Generator  
+[![Python](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python)](#)  
+[![Security](https://img.shields.io/badge/Category-Security-critical?style=for-the-badge&logo=hackaday)](#)  
+A **Python-based password generator** project showcasing secure coding practices.  
+
+
+
+📫 How to Reach Me  
+- 🌐 **LinkedIn:** [linkedin.com/in/nikita-shinde-9172482a1] 
+- 📧 **Email:** [nikitashinde2366@gmail.com]
+- 🛠️ **GitHub:** [github.com/nikitashinde-23] 
+
+
+✨ *“Cybersecurity is not just about defending systems, it’s about building trust and resilience.”*   in this add more tools
