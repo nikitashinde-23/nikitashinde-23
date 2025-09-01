@@ -9,8 +9,8 @@ I'm Nikita Shinde!
 
 ---
 
-
 📜 About Me  
+---
 🎯 Interests in Cybersecurity, including:  
 - SOC Monitoring & Incident Response  
 - Network Scanning & Information Gathering  
@@ -24,84 +24,79 @@ I'm Nikita Shinde!
  🧰 Tools & Languages
  ---
 
-💻 Programming & Scripting  
+💻 **Programming & Scripting**
 - 🐍 Python  
 - 🐚 Bash  
 - 🗄️ SQL
   
-  ---
-🛠️ OS & Platforms  
+---
+  
+🛠️ **OS & Platforms**
 - 🐧 Linux (Kali Linux, Ubuntu)  
 - 🪟 Windows  
 - 📦 VirtualBox / VMware
   
-  ---
+---
 
-🔎 Recon & Information Gathering  
+🔎 **Recon & Information Gathering** 
 - 🌐 Nmap  
 - 🔍 theHarvester  
 - 📜 Whois  
 - 🛰️ Maltego  
 
-  ---
- ⚔️ Vulnerability Scanning  
+---
+
+ ⚔️ **Vulnerability Scanning**
 - ⚡ Nikto  
 - 🐉 Nessus  
 - 🔬 OpenVAS
+  
 --- 
 
-🪝 Exploitation  
+🪝 **Exploitation**
 - 🗡️ Metasploit Framework  
 - 💥 SQLMap  
 - 🐚 Exploit-DB
+  
 ---
 
-🧪 Web App Testing  
+🧪 **Web App Testing** 
 - 🦀 Burp Suite  
 - 🔓 Dirbuster
+  
 ---
   
-  
-
- 🔐 Password Attacks  
+ 🔐 **Password Attacks**  
 - 🔨 Hydra   
 - 🧰 Crunch  
 - 🗝️ Hashcat
   
 ---
     
- 🧭 Wireless Testing  
+ 🧭 **Wireless Testing** 
 - 📶 Wireshark  
 - 📻 Kismet
   
 ---
 
-🗂️ General Tools  
+🗂️ **General Tools**
 - ⚙️ Git & GitHub  
 - 📄 VS Code  
 - 🐧 Terminal
   
 ---
 
-
-
-📌 Featured Projects by Nikita Shinde  
-
-🔹 Prodigy InfoTech Cyber Projects  
-
-Hands-on tasks and cybersecurity challenges completed under **Prodigy InfoTech Internship**.  
+📌**Featured Project**  
+✅ Prodigy InfoTech Cybersecurity Projects  
+✅ Codsoft Password Generator   
+✅ Browser Extension for Real-Time Data Leak Alerts  
 
 ---
-
-🔹 CodSoft Password Generator  
-A **Python-based password generator** project showcasing secure coding practices.  
-
----
-
-📫 How to Reach Me  
-- 🌐 **LinkedIn:** [linkedin.com/in/nikita-shinde-9172482a1] 
+ 
+📫 **How to Reach Me**  
+- 🌐 **LinkedIn:** [linkedin.com/in/nikita-shinde-9172482a1]
 - 📧 **Email:** [nikitashinde2366@gmail.com]
 - 🛠️ **GitHub:** [github.com/nikitashinde-23] 
 
 
-✨ *“Cybersecurity is not just about defending systems, it’s about building trust and resilience.”*   in this add more tools
+✨ *“Cybersecurity is not just about defending systems, it’s about building trust and resilience.”*   
