@@ -6,6 +6,7 @@ I'm Nikita Shinde!
 🔐 Cybersecurity Student | Aspiring SOC Analyst | Ethical Hacking Enthusiast
 🛡️ Focused on protecting systems, monitoring threats, and building security skills.
 ⚡ Passionate about SOC operations, penetration testing, and digital forensics. 
+
 ---
 
 
@@ -27,11 +28,13 @@ I'm Nikita Shinde!
 - 🐍 Python  
 - 🐚 Bash  
 - 🗄️ SQL
+  
   ---
 🛠️ OS & Platforms  
 - 🐧 Linux (Kali Linux, Ubuntu)  
 - 🪟 Windows  
 - 📦 VirtualBox / VMware
+  
   ---
 
 🔎 Recon & Information Gathering  
@@ -64,17 +67,20 @@ I'm Nikita Shinde!
 - 🔨 Hydra   
 - 🧰 Crunch  
 - 🗝️ Hashcat
+  
 ---
     
  🧭 Wireless Testing  
 - 📶 Wireshark  
 - 📻 Kismet
+  
 ---
 
 🗂️ General Tools  
 - ⚙️ Git & GitHub  
 - 📄 VS Code  
 - 🐧 Terminal
+  
 ---
 
 
@@ -90,7 +96,7 @@ Hands-on tasks and cybersecurity challenges completed under **Prodigy InfoTech I
 🔹 CodSoft Password Generator  
 A **Python-based password generator** project showcasing secure coding practices.  
 
-
+---
 
 📫 How to Reach Me  
 - 🌐 **LinkedIn:** [linkedin.com/in/nikita-shinde-9172482a1] 
