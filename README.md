@@ -93,10 +93,10 @@ I'm Nikita Shinde!
 
 ---
  
-📫 **How to Reach Me**  
-- 🌐 **LinkedIn:** [linkedin.com/in/nikita-shinde-9172482a1]
-- 📧 **Email:** [nikitashinde2366@gmail.com]
-- 🛠️ **GitHub:** [github.com/nikitashinde-23] 
+- ## **🌐 Connect with Me**  
+- 🌐 **LinkedIn:** [linkedin.com/in/nikita-shinde](https://www.linkedin.com/in/nikita-shinde-9172482a1)  
+- 📧 **Email:** [nikitashinde2366@gmail.com](mailto:nikitashinde2366@gmail.com)  
+
 
 
 ✨ *“Cybersecurity is not just about defending systems, it’s about building trust and resilience.”*   
